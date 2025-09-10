@@ -34,7 +34,7 @@ This project was developed as an individual submission for the Astranauts 2025 c
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/teresakae/NUSAScore
     cd NUSAScore
     ```
 2.  **Install the required dependencies:**
